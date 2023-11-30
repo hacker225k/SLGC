@@ -1,0 +1,34 @@
+###########################################################
+                                                          #
+Solution for Sign Languageand Gesture-based Communication #
+                                                          #
+###########################################################
+
+
+How to run
+----------------------------------------------
+>>install node.js 
+>>config in environment variables
+>>open project file and type the cmd in directory path
+>>type this cmd "npm i -force"
+Note:its take some time
+>>after completing type this cmd "npm start"
+>>it will automatically run and open the default webpage 
+>>try the signs 
+Note: prefer white background while doing signs 
+
+------------------------------------------------------------
+
+how to add the signs
+-----------------------------------------------
+>>add your signs in SLGC-main/Imgs/ folder 
+Note:must images are in .png format
+Note:must image names are in sign name
+
+>>add your sign in code SLGC-main/src/lablemap.js file and SLGC-main/src/images.js
+Note:import the images using there name and path like existing files
+
+   ______________________________________________________________________
+
+   NOTE: AFTER DOING ANY CHANGES IN THE CODE MUST SAVE AND AFTER RUN
+  _________________________________________________________________________________-
